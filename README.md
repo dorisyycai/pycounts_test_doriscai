@@ -1,5 +1,7 @@
 # pycounts_test_doriscai
 
+Author: Doris
+
 Calculate word counts in a text file!
 
 ## Installation
