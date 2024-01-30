@@ -1,6 +1,6 @@
 # pycounts_test_doriscai
 
-Author: Doris
+Author: Doris Cai
 
 Calculate word counts in a text file!
 
