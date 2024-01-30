@@ -2,6 +2,17 @@
 
 
 
+## v0.1.2 (2024-01-30)
+
+### Fix
+
+* fix: Updated author on README ([`da87791`](https://github.com/dorisyycai/pycounts_test_doriscai/commit/da877911a8d872bc3a38146639dc00dd83d9e8f2))
+
+### Unknown
+
+* Updated author on README.md ([`ae523a8`](https://github.com/dorisyycai/pycounts_test_doriscai/commit/ae523a816d7cf81ff71109af2c294ff530e69b1e))
+
+
 ## v0.1.1 (2024-01-29)
 
 ### Fix
