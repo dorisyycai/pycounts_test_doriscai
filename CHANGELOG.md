@@ -2,6 +2,19 @@
 
 
 
+## v1.3.0 (2024-02-02)
+
+### Feature
+
+* feat: edit author.       BREAKING CHANGE: ([`f39e2c5`](https://github.com/dorisyycai/pycounts_test_doriscai/commit/f39e2c5e1dbeb1e755bc16bb2c03a3e46db43984))
+
+* feat: updated author ([`1898da8`](https://github.com/dorisyycai/pycounts_test_doriscai/commit/1898da86319b233f28ea12cb21b308f65e7b2009))
+
+### Unknown
+
+* major: edit author ([`937ce20`](https://github.com/dorisyycai/pycounts_test_doriscai/commit/937ce20511a154e09b627215e941f80bc7a274b5))
+
+
 ## v1.2.0 (2024-02-02)
 
 ### Feature
