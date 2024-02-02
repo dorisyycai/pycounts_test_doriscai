@@ -2,7 +2,14 @@
 
 
 
-## v0.1.2 (2024-01-30)
+## v1.1.0 (2024-02-02)
+
+### Feature
+
+* feat: edited author ([`e942343`](https://github.com/dorisyycai/pycounts_test_doriscai/commit/e942343582c9a551c5ea56682d12113932571c43))
+
+
+## v1.0.0 (2024-01-30)
 
 ### Fix
 
