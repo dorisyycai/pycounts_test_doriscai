@@ -2,6 +2,14 @@
 
 
 
+## v1.4.0 (2024-02-02)
+
+### Feature
+
+* feat: edited author
+BREAKING CHANGE: plotting module wont exist after this release. ([`0f48382`](https://github.com/dorisyycai/pycounts_test_doriscai/commit/0f4838281e3eb12be5b1427571e43a74d991ed0a))
+
+
 ## v1.3.0 (2024-02-02)
 
 ### Feature
